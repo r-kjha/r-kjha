@@ -69,7 +69,10 @@
 ## Support me:
 <a href="https://www.buymeacoffee.com/rkjha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
 
-<a href="https://www.patreon.com/rkjha" target="_blank"><img src="https://le-cdn.website-editor.net/05ce6571223a491289ae62de7892c2dd/dms3rep/multi/opt/Patreon-Button-2880w.png" alt="Become a Patreon" style="height: 60px !important;width: 217px !important;" ></a> 
+<a href="https://www.patreon.com/rkjha" target="_blank"><img src="https://i.imgur.com/wtdFyuH.png" alt="Become a Patreon" style="height: 60px !important;width: 217px !important;" ></a> 
+
+
+<a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/VjdZLfc.png" alt="Paypal Donation" style="height: 60px !important;width: 217px !important;" ></a> 
 
 
 ## Connect with me:
