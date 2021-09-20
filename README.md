@@ -72,7 +72,7 @@
 <a href="https://www.patreon.com/rkjha" target="_blank"><img src="https://i.imgur.com/wtdFyuH.png" alt="Become a Patreon" style="height: 60px !important;width: 217px !important;" ></a> 
 
 
-<a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/VjdZLfc.png" alt="Paypal Donation" style="height: 60px !important;width: 217px !important;" ></a> 
+<a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/VjdZLfc.png" alt="Paypal Donation" style="width: 217px !important;" ></a> 
 
 
 ## Connect with me:
