@@ -75,7 +75,7 @@
 
 <a href="https://ko-fi.com/rkjha" target="_blank"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbed8a4ae2b88347c06c923_BuyMeACoffee_blue-p-500.png" alt="Ko-Fi Donation" style="width: 217px !important;" ></a>
 
-<a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/VjdZLfc.png" alt="Paypal Donation" style="width: 217px !important;" ></a> 
+<a href="https://www.paypal.me/iamrkjha" target="_blank"><img src="https://i.imgur.com/uq3cgfc.png" alt="Paypal Donation" style="width: 217px !important;" ></a> 
 
 
 ## Connect with me:
