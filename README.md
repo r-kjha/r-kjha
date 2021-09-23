@@ -82,7 +82,7 @@
 <p align="left">
 
 <a href = "mailto:sayhi@rkjha.com.np"><img src="https://img.icons8.com/nolan/64/email.png"/></a>
-<a href = "https://discord.gg/UZnjDwUteM"><img src="https://img.icons8.com/nolan/64/discord-logo.png"/></a>
+<a href = "https://dsc.gg/rkjha"><img src="https://img.icons8.com/nolan/64/discord-logo.png"/></a>
 <a href = "https://rkjha.com.np"><img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-website-multimedia-kiranshastry-gradient-kiranshastry.png"/></a>
 
 </p>
