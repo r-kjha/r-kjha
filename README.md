@@ -1,7 +1,14 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RKJha</h1>
-<h3 align="center">I'm a passionate & self-taught Full Stack Developer.</h3>
+<!-- <h3 align="center">I'm a passionate & self-taught Full Stack Developer.</h3> -->
+<div align="center">
+ 
+&nbsp; [![RKJha](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=a+passonate+full+stack+developer)](https://rkjha.com.np)
+    [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=r-kjha&data=followers,repositories,stars,commits)](https://github.com/r-kjha)
+
+ 
+</div>
 
 
 ## 🙋‍♂️ About Me
@@ -61,7 +68,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/r-kjha"><img alt="RKJha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=r-kjha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/r-kjha"><img alt="RKJha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=r-kjha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
