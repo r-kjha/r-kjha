@@ -1,0 +1,36 @@
+#cloud-config
+
+runcmd:
+  - |
+    # Set the new hostname
+    sudo hostnamectl set-hostname terohost
+
+  - |
+    # MOTD message
+    cat <<EOF | sudo tee /etc/motd > /dev/null
+     _____              _   _           _   
+    |_   _|            | | | |         | |  
+      | | ___ _ __ ___ | |_| | ___  ___| |_ 
+      | |/ _ \ '__/ _ \|  _  |/ _ \/ __| __|
+      | |  __/ | | (_) | | | | (_) \__ \ |_ 
+      \_/\___|_|  \___/\_| |_/\___/|___/\__|
+                                            
+                                            
+    Welcome!
+
+    This server is managed by TeroHost. If you have any questions or need help,
+    please don't hesitate to contact us at support@terohost.com or 
+    join our Discord server at https://support.terohost.com
+    EOF
+
+  - |
+    # Notify users that the hostname has changed
+    echo "Hostname has been set to 'terohost'. Please log out and back in to see the change."
+
+  - |
+    # Show new motd
+    cat /etc/motd
+
+  - |
+    # Remove History
+    history -c && history -w
