@@ -4,7 +4,7 @@
 <!-- <h3 align="center">I'm a passionate & self-taught Full Stack Developer.</h3> -->
 <div align="center">
  
-&nbsp; [![RKJha](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=a+passonate+full+stack+developer)](https://rkjha.com.np)
+&nbsp; [![RKJha](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=a+passonate+self+taught+developer)](https://rkjha.com.np)
     [![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=r-kjha&data=followers,repositories,stars,commits)](https://github.com/r-kjha)
 
  
