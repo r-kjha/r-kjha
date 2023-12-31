@@ -73,8 +73,8 @@
 <br/>
 <br/>
 
-## Support me:
-<a href="https://rkjha.com.np/donate.html" target="_blank"><img src="https://i.imgur.com/K1XUcYJ.png" alt="Donate" style="height: 60px !important;width: 217px !important;" ></a> 
+## Feeling Generous?
+<a href="https://www.volunteeringnepal.org/make-donation/" target="_blank"><img src="https://i.imgur.com/K1XUcYJ.png" alt="Donate" style="height: 60px !important;width: 217px !important;" ></a> 
 
 
 
